@@ -25,6 +25,12 @@ The dataset used (`dataset.csv`) contains population data categorized by:
 - Pandas
 - Matplotlib
 
+## 📦 Dependencies
+
+```bash
+pip install pandas matplotlib
+```
+
 ## 📌 Output
 
 A bar chart showing the **total population by age group**, with the Y-axis representing the values in **billions** for better readability.
